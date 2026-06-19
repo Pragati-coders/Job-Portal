@@ -92,22 +92,26 @@ Authentication and role management (candidate vs. recruiter) are handled by Cler
 | **Sign In Modal** | Clerk-powered authentication with Google OAuth and email sign-in |
 | **Job Listings** | Grid of open roles with company, location, and a "More Details" / save action on each card |
 | **Companies Directory** | All companies hiring on the platform, each linking to their open roles |
-| **Stats & Latest Openings** | Homepage section showing platform stats and the most recently posted jobs |
+| **Features** | Overview of platform features for candidates and recruiters |
+| **Email Notifications** | Status update emails sent to candidates |
 
 #### Landing Page
-![Landing Page](./screenshots/landing-page.png)
+![Landing Page](./screenshots/Landing-Page.png)
 
 #### Sign In Modal
-![Sign In](./screenshots/sign-in.png)
+![Sign In](./screenshots/Sign-in%20.png)
 
 #### Job Listings
-![Job Listings](./screenshots/job-listings.png)
+![Job Listings](./screenshots/Job-Listing.png)
 
 #### Companies Directory
-![Companies](./screenshots/companies.png)
+![Companies](./screenshots/Companies.png)
 
-#### Stats & Latest Openings
-![Stats Section](./screenshots/stats-section.png)
+#### Features
+![Features](./screenshots/Features.png)
+
+#### Email Notifications
+![Email Notification](./screenshots/Email.notification.png)
 
 ---
 
